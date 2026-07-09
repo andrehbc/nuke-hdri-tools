@@ -1,4 +1,4 @@
-# nuke-hdri-tools
+# n=Nuke hdri tools
 
 Bracketed raw photos -> true scene-referred HDRI, entirely from Nuke.
 Replaces the Photoshop "Merge to HDR" step with an ACES-native,
